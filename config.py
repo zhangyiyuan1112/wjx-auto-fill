@@ -1,6 +1,6 @@
 # url = "https://www.wjx.cn/vm/QDmCDYI.aspx#"
 url = "https://www.wjx.cn/vm/ex35On1.aspx"
-epochs = 1
+epochs = 100
 # 题项比例，确保选项数量和数组长度一致
 prob = {
     1: [61, 26, 13],
